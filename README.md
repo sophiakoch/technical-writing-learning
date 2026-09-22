@@ -1,2 +1,9 @@
-# technical-writing-learning
-my first technical writing project
+# Technical Writing Learning
+
+Я изучаю техническое писательство.
+
+## Сейчас изучаю
+
+- Git
+- GitHub
+- Markdown
